@@ -9,7 +9,7 @@ I'm a chemical engineer, currently pursuing a postgraduate degree in artificial 
 
 ## My channels 📧
 
-- [LinkedIn](https://www.linkedin.com/in/natanaelferran/)
+- [LinkedIn](https://www.linkedin.com/in/natanael-ferran/)
 - [Kaggle](https://www.kaggle.com/natanaelferran)
 - [Email](mailto:natanaelferran@protonmail.com)
 
